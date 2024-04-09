@@ -1,2 +1,2 @@
 # 100DaysOfSwiftUI
-My journey of 100 Days of SwiftUI
+My journey on 100 Days of SwiftUI
