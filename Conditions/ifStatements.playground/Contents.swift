@@ -32,6 +32,7 @@ enum Sizes: Comparable {
     case small
     case medium
     case large
+    case extraLarge
 }
 let first = Sizes.small
 let second = Sizes.medium
